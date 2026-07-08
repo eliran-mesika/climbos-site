@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://climbos.mesikalabs.com/sitemap.xml

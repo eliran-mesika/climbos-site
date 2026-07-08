@@ -1,0 +1,24 @@
+# ClimbOS
+
+ClimbOS is an iPhone-first climbing companion from MesikaLabs for local session logging, climbing notes, beta planning, and offline gym use.
+
+## Key Pages
+
+- [Home](https://climbos.mesikalabs.com/)
+- [Support](https://climbos.mesikalabs.com/support/)
+- [Privacy Policy](https://climbos.mesikalabs.com/privacy/)
+- [Terms](https://climbos.mesikalabs.com/terms/)
+
+## Product Positioning
+
+- Offline-first climbing companion.
+- Local session logs, wall photos, route notes, and planning data.
+- No required account or MesikaLabs backend for the current public positioning.
+- Not medical advice, injury diagnosis, or a guaranteed performance tool.
+
+## Contacts
+
+- App support: climbos@mesikalabs.com
+- General support: support@mesikalabs.com
+- Privacy: privacy@mesikalabs.com
+- Legal: legal@mesikalabs.com
