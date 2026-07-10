@@ -5,6 +5,7 @@
 - This repo is the static public site for ClimbOS at `climbos.mesikalabs.com`.
 - Keep claims aligned with the current app state. Do not add account, cloud sync, medical advice, injury diagnosis, or paid feature claims unless the app repo and App Store metadata support them.
 - Keep the site focused on support, privacy, terms, and concise product positioning.
+- Follow `DESIGN.md` for the repository-local implementation contract and the MesikaLabs family design language it references.
 
 ## MesikaLabs Contact Points
 

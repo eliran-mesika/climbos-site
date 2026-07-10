@@ -2,6 +2,8 @@
 
 Public support, privacy, and terms pages for ClimbOS.
 
+The site remains static and repository-owned. `DESIGN.md` defines its product-specific implementation contract while referencing the shared MesikaLabs family guidance.
+
 - Marketing: https://climbos.mesikalabs.com/
 - Support: https://climbos.mesikalabs.com/support/
 - Privacy: https://climbos.mesikalabs.com/privacy/
